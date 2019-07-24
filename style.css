@@ -1,13 +1,13 @@
 /* Заголовок 1 */
 h1 
 { 	
-	color: #ff001c;
+	color: #ff0500;
 }
 
 /* Заголовок 2 */
 h2 
 { 	
-	color: #0000FF;
+	color: #fff01a;
 }
 
 
@@ -21,7 +21,7 @@ table
 /* Строка */
 tr
 {
-	background-color:#DC63C2;
+	background-color: #0bdcbb;
 	padding:7px;
 	font-size:1.1em;
 	border:1px black solid;
